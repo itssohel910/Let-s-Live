@@ -1,1 +1,1 @@
-alert("Warning: This site may contain suicide-related content. Avoid it to stay alive");
+alert("Warning: This site  contains suicide-inspiration content. Avoid it to stay alive");
